@@ -47,7 +47,7 @@ Berikut adalah tautan resmi dari Python Package Index (PyPI) untuk pustaka yang 
 
 ### **5. Penggunaan *Virtual Environment* dan `requirements.txt`**
 
-Sebagai AI berbasis teks, saya tidak dapat memberikan tangkapan layar (*screenshot*). [cite_start]Namun, berikut adalah panduan langkah demi langkah beserta perintah yang dapat Anda jalankan di terminal atau *command prompt* untuk menyelesaikan tugas ini[cite: 64].
+Saya bagi menjadi 2 langkah. Langkah pertama mencakup pembuatan _virtual environment_ pertama dan melakukan instalasi _library_, serta membuat `requirements.txt`. Sedangkan untuk langkah kedua adalah menggunakan `requirements.txt` tersebut pada _virtual environment_ yang berbeda untuk menginstal daftar _library_ yang diperlukan.
 
 #### **Membuat *virtual environment* pertama, *install libraries* yang dibutuhkan, dan membuat `requirements.txt`**
 Dokumentasi _screenshots_:
