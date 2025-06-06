@@ -1,5 +1,5 @@
 `author: Ulivia Embun (10322015)`
-# TASK SLIDE 2 - Data Science and Python venv
+# TASK SLIDE 3 - Data Science and Python venv
 ```
 1. Explain in brief about data science.
 2. What are the differences between data, data science, and data scientist?
